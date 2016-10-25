@@ -1,4 +1,4 @@
-Writing explicit commit messages is important.
+Writing explicit commit messages is very important.
 
 Put the overall main point of the commit in the first line.
 
