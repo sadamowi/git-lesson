@@ -1,1 +1,4 @@
 Text file created during git lesson.
+
+Writing explicit commit messages is important.
+
